@@ -18,11 +18,22 @@ Este programa fue desarrollado en C++ con el propósito de calcular el Impuesto 
 - C++
 
 ## Capturas
+## Caso 1 - Empleado exento de ISR
 
-## Autor
-Christopher starling florentino Eusebio 
+![Captura 1](capturas/captura8.png)
+
+## Caso 2 - Empleado con ISR
+
+![Captura 2](capturas/captura9.png)
+
+## Caso 3 - Empleado con mayor descuento
+
+![Captura 3](capturas/captura10.png)
 
 Agregar capturas del programa ejecutándose con:
 - Un sueldo exento.
 - Un sueldo con ISR del 15%.
 - Un sueldo con ISR del 20% o 25%.
+
+## Autor
+Christopher starling florentino Eusebio 
