@@ -20,15 +20,15 @@ Este programa fue desarrollado en C++ con el propósito de calcular el Impuesto 
 ## Capturas
 ## Caso 1 - Empleado exento de ISR
 
-![Captura 1](capturas/captura8.png)
+![Captura 1]
 
 ## Caso 2 - Empleado con ISR
 
-![Captura 2](capturas/captura9.png)
+![Captura 2](
 
 ## Caso 3 - Empleado con mayor descuento
 
-![Captura 3](Captura de pantalla (10).png)
+![Captura 3](
 
 Agregar capturas del programa ejecutándose con:
 - Un sueldo exento.
