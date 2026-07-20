@@ -18,19 +18,22 @@ Este programa fue desarrollado en C++ con el propósito de calcular el Impuesto 
 - C++
 
 ## Capturas
-## Caso 1 - Empleado exento de ISR
 
-![Captura 1]
+Agregar capturas del programa ejecutándose con:
+
+## Caso 1 - Empleado exento
+
+<img width="1920" height="1080" alt="Captura de pantalla (8)" src="https://github.com/user-attachments/assets/77279f00-8837-497a-bd1e-3cefd70c5b0d" />
 
 ## Caso 2 - Empleado con ISR
 
-![Captura 2](
+<img width="1920" height="1080" alt="Captura de pantalla (9)" src="https://github.com/user-attachments/assets/5888e278-9e53-4d69-8a1e-bc39feb29e47" />
 
-## Caso 3 - Empleado con mayor descuento
+## Caso 3 - Empleado con mayor ISR
 
-![Captura 3](
+<img width="1920" height="1080" alt="Captura de pantalla (10)" src="https://github.com/user-attachments/assets/f3da4653-6273-4ce6-ac1e-d2c4beafa6df" />
 
-Agregar capturas del programa ejecutándose con:
+
 - Un sueldo exento.
 - Un sueldo con ISR del 15%.
 - Un sueldo con ISR del 20% o 25%.
