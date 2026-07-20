@@ -28,7 +28,7 @@ Este programa fue desarrollado en C++ con el propósito de calcular el Impuesto 
 
 ## Caso 3 - Empleado con mayor descuento
 
-![Captura 3](capturas/captura10.png)
+![Captura 3](Captura de pantalla (10).png)
 
 Agregar capturas del programa ejecutándose con:
 - Un sueldo exento.
